@@ -1,6 +1,6 @@
 # Tool for mass testing ZeroLogon vulnerability CVE-2020-1472
  
-![proof]('proof.png' "Proof")
+![proof]('CI7enqHSjO.png' "Proof")
 
 
 ## Steps to procedure
